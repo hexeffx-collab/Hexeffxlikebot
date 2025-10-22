@@ -15,5 +15,4 @@
 
 
 # 📦 If you don't want to install manually,
-#     this script auto-installs missing modules.
-# ==============================================
+#     this script auto-installs missing module
